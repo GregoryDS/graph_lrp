@@ -1,4 +1,4 @@
-Please download if this GE_PPI directory 3 files:
+Please download in this GE_PPI directory 3 files:
 
 GEO_HG_PPI.csv
 HPRD_PPI.csv
