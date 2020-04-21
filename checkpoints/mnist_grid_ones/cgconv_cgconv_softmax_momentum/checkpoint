@@ -1,0 +1,6 @@
+model_checkpoint_path: "/sybig/home/hch/MyPathSem/python-code/LRP_GCNN/lib/../checkpoints/mnist_grid_ones/cgconv_cgconv_softmax_momentum/model-16500"
+all_model_checkpoint_paths: "/sybig/home/hch/MyPathSem/python-code/LRP_GCNN/lib/../checkpoints/mnist_grid_ones/cgconv_cgconv_softmax_momentum/model-13500"
+all_model_checkpoint_paths: "/sybig/home/hch/MyPathSem/python-code/LRP_GCNN/lib/../checkpoints/mnist_grid_ones/cgconv_cgconv_softmax_momentum/model-14400"
+all_model_checkpoint_paths: "/sybig/home/hch/MyPathSem/python-code/LRP_GCNN/lib/../checkpoints/mnist_grid_ones/cgconv_cgconv_softmax_momentum/model-15300"
+all_model_checkpoint_paths: "/sybig/home/hch/MyPathSem/python-code/LRP_GCNN/lib/../checkpoints/mnist_grid_ones/cgconv_cgconv_softmax_momentum/model-16200"
+all_model_checkpoint_paths: "/sybig/home/hch/MyPathSem/python-code/LRP_GCNN/lib/../checkpoints/mnist_grid_ones/cgconv_cgconv_softmax_momentum/model-16500"
