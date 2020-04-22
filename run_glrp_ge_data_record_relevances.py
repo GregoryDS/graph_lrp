@@ -15,6 +15,8 @@ from lib import models, graph, coarsening
 
 # from sklearn.model_selection import StratifiedKFold
 
+import time
+
 rndm_state = 7
 np.random.seed(rndm_state)
 

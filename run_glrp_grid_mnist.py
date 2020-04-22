@@ -13,6 +13,8 @@ from tensorflow.examples.tutorials.mnist import input_data
 from components import glrp_scipy, visualize_mnist
 from lib import models, graph, coarsening
 
+import time
+
 COARSENING_LEVELS = 4  # to satisfy pooling of size 4 two times we need 4 level
 DIR_DATA = "./data/mnist"
 METRIC = 'euclidean'
